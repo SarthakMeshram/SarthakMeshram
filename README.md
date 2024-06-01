@@ -1,22 +1,11 @@
-<!--
-**SarthakMeshram/SarthakMeshram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="text-align: center">
+  <img width="100%" src="assets/Minimalist Sunrise Email Header (2).png" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+# Hey 👋 I'm Sarthak Meshram
 
-# Hi 👋 I'm Sarthak Meshram
-
-🎓 **CSE student at ACET, graduating in 2024**
+🎓 **As a student at ACET, I am pursuing a bachelor's degree in CSE**
 
 🌟 **Aspiring Software Developer passionate about building impactful software solutions**
 
@@ -30,23 +19,29 @@ I'm a dedicated and enthusiastic computer science student with a strong interest
 
 ### Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #141414; padding: 10px; border-radius: 10px; box-shadow: 0 0 15px #00FFFF;">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=141414&labelColor=141414)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=141414&labelColor=141414)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=141414&labelColor=141414)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=141414&labelColor=141414)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=141414&labelColor=141414)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=141414&labelColor=141414)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=141414&labelColor=141414)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=141414&labelColor=141414)
+
+</div>
+
 
 ---
 
 ### GitHub Stats
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarthakMeshram&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakMeshram&layout=compact&theme=radical)
-
+<div style="display: flex;">
+  
+![](https://github-readme-stats.vercel.app/api?username=SarthakMeshram&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SarthakMeshram&theme=tokyonight&hide_border=true)<br/>
+</div>
 ---
 
 ### Reach Out to Me
