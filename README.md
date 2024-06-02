@@ -2,8 +2,7 @@
   <img width="100%" src="assets/Minimalist Sunrise Email Header (2).png" />
 </div>
 
-
-# Hi 👋 I'm Sarthak Meshram
+# Hey 👋 I'm Sarthak Meshram
 
 🎓 **As a student at ACET, I am pursuing a bachelor's degree in CSE**
 
@@ -32,25 +31,24 @@ I'm a dedicated and enthusiastic computer science student with a strong interest
 
 </div>
 
-
 ---
 
 ### GitHub Stats
 
-<div style="display: flex;">
-  
-![](https://github-readme-stats.vercel.app/api?username=SarthakMeshram&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SarthakMeshram&theme=tokyonight&hide_border=true)<br/>
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakMeshram&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="Sarthak's GitHub stats" style="width: 49%;"/>
+  <img src="https://streak-stats.demolab.com?user=SarthakMeshram&theme=tokyonight&hide_border=true" alt="Sarthak's GitHub streak stats" style="width: 49%;"/>
 </div>
+
 ---
 
 ### Reach Out to Me
 
 <div style="display: flex; gap: 10px; border: 2px solid #00FFFF; border-radius: 10px; padding: 20px; background-color: #141414; box-shadow: 0 0 15px #00FFFF;">
-  <a href="https://www.linkedin.com/in/sarthak-meshram-1a0a00254">
+  <a href="https://www.linkedin.com/in/sarthak-meshram-1a0a00254" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&color=141414&labelColor=141414" alt="LinkedIn">
   </a>
-  <a href="mailto:sarthakmeshram7385@gmail.com">
+  <a href="mailto:sarthakmeshram7385@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=141414&labelColor=141414" alt="Email">
   </a>
 </div>
