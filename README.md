@@ -46,5 +46,11 @@ I'm a dedicated and enthusiastic computer science student with a strong interest
 
 ### Reach Out to Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-meshram-1a0a00254)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakmeshram7385@gmail.com)
+<div style="display: flex; gap: 10px; border: 2px solid #00FFFF; border-radius: 10px; padding: 20px; background-color: #141414; box-shadow: 0 0 15px #00FFFF;">
+  <a href="https://www.linkedin.com/in/sarthak-meshram-1a0a00254">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&color=141414&labelColor=141414" alt="LinkedIn">
+  </a>
+  <a href="mailto:sarthakmeshram7385@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=141414&labelColor=141414" alt="Email">
+  </a>
+</div>
