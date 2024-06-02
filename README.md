@@ -3,7 +3,7 @@
 </div>
 
 
-# Hey 👋 I'm Sarthak Meshram
+# Hi 👋 I'm Sarthak Meshram
 
 🎓 **As a student at ACET, I am pursuing a bachelor's degree in CSE**
 
