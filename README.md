@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a dedicated and enthusiastic computer science student with a strong interest in software development, artificial intelligence, and open source contributions. I thrive on solving complex problems and am constantly seeking opportunities to learn and grow in the tech industry.
+I am a zealous and highly committed computer science student with a profound interest in software development, artificial intelligence, etc. I excel in tackling intricate problems and am perpetually seeking opportunities to expand my knowledge and expertise in the tech industry.
 
 ---
 
