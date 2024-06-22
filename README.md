@@ -2,7 +2,7 @@
   <img width="100%" src="assets/Minimalist Sunrise Email Header (2).png" />
 </div>
 
-# Hey 👋 I'm Sarthak Meshram
+# Hey  I'm Sarthak Meshram
 
 🎓 **As a student at ACET, I am pursuing a bachelor's degree in CSE**
 
