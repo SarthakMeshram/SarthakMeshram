@@ -6,7 +6,7 @@
 
 🎓 **As a student at ACET, I am pursuing a bachelor's degree in CSE**
 
-🌟 **Aspiring Software Developer passionate about building impactful software solutions**
+🌟 **Aspiring Software Developer passionate about building impactful software solutions.**
 
 ---
 
