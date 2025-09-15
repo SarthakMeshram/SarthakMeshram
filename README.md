@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a zealous and highly committed computer science student with a profound interest in software development, artificial intelligence, etc. I excel in tackling intricate problems and am perpetually seeking opportunities to expand my knowledge and expertise in the tech industry.
+I am a zealous and highly committed computer science student with a profound interest in software development, artificial intelligence, etc. I excel in tackling intricate problems and am perpetually seeking opportunities to expand my knowledge and expertise in the tech industry
 
 ---
 
